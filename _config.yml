@@ -6,12 +6,12 @@ remote_theme: jekyll/minima
 
 minima:
   skin: solarized
+  social_links:
+    - title: github
+      icon: github
+      url: "https://github.com/ohutus"
 
 url: https://ohutus.github.io
 
 author:
   name: ohutus(valeNimi4)
-  links:
-    - title: GitHub
-      icon: github
-      url: https://github.com/ohutus
