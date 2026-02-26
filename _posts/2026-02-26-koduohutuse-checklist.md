@@ -17,21 +17,3 @@ title: "Koduohutuse checklist"
   <li><input type="checkbox" id="punkt9">Valgustus pimedates kohtades</li>
   <li><input type="checkbox" id="punkt10">Tulekustuti ja suitsuandurite hoolduskuupäevad üle vaadatud</li>
 </ul>
-
-<button onclick="kuvaTulemus()">Näita tulemusi</button>
-
-<script>
-function kuvaTulemus() {
-  const checklist = document.querySelectorAll('#checklist input[type="checkbox"]');
-  let kontrollitud = [];
-  checklist.forEach((item, index) => {
-    if (item.checked) kontrollitud.push(`Punkt ${index + 1}: ${item.nextSibling.textContent.trim()}`);
-  });
-
-  if (kontrollitud.length === 0) {
-    alert("Ühtki punkti ei ole veel kontrollitud!");
-  } else {
-    alert("Kontrollitud punktid:\n" + kontrollitud.join("\n"));
-  }
-
-
