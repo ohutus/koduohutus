@@ -30,6 +30,7 @@ Kata pann kaanega või kasuta tulekustutit.
 - Kustuta alati ruumist lahkudes
 
 **Ära lae liitiumakusid öösel esikus või evakuatsiooniteel**
+
 (E-tõukerattad, akupangad jms.)
 
 **Paigalda vingugaasiandur, kui sul on:**
