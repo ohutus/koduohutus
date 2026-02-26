@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Suvaline fakt koduohutuse kohta"
