@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Uus leht: ohutus.github.io"
+---
+
 **Kuidas koduõnnetusi ära hoida?**
 
 **Paigalda ja hoolda suitsuandurit**
