@@ -48,3 +48,15 @@ Kata pann kaanega või kasuta tulekustutit.
 - Libisemisvastane matt duši alla.
 - Ära roni tooli peale – kasuta stabiilset redelit.
 - Hoia põrandad kuivana.
+
+**Evakuatsioonivalmidus**
+- Mõtle läbi: kust ma välja lähen, kui koridor on suitsu täis?
+- Hoia välisuks ja rõdu ligipääsetav.
+- Magamistoa uks kinni öösel võib aeglustada tule levikut.
+
+**Igas kodus võiks olla:**
+- tulekustuti
+- tuletekk
+- suitsuandur
+- (vajadusel) vingugaasiandur
+Need on väikesed kulud võrreldes võimaliku kahjuga.
