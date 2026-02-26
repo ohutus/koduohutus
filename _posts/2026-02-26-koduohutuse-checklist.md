@@ -36,5 +36,3 @@ function kuvaTulemus() {
 }
 </script>
 
-</body>
-</html>
