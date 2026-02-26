@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Suvalised faktid"
+title: "Huvitavad faktid koduohutuse kohta"
 ---
 
 <b id="fakt">Pikendusjuhtmed ei ole mõeldud püsivaks kasutamiseks, Paljud kasutavad neid aastaid järjest, kuid need on mõeldud ajutiseks lahenduseks. Ülekoormatud või üksteise otsa ühendatud pikendusjuhtmed on sage tulekahju põhjus</b>
 
-<button id="teinefakt">Veel</button>
+<button id="teinefakt" style="padding: 10px;">Veel</button>
 
 <script>const faktid = [
   "Pikendusjuhtmed ei ole mõeldud püsivaks kasutamiseks, Paljud kasutavad neid aastaid järjest, kuid need on mõeldud ajutiseks lahenduseks. Ülekoormatud või üksteise otsa ühendatud pikendusjuhtmed on sage tulekahju põhjus.",
