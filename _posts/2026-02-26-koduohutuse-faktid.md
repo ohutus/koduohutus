@@ -19,9 +19,11 @@ title: "Koduohutuse Faktid"
 (See on Eestis kohustuslik – nõuet kontrollib Päästeamet.)
 
 **Ära jäta toitu pliidile järelevalveta**
+
 Enamik kodupõlenguid algab köögist.
 
 **Õlipõlengu reegel:**
+
 Ära kunagi kasuta vett!
 Kata pann kaanega või kasuta tulekustutit.
 
