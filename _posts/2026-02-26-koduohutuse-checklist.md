@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Koduohutuse Faktid"
+title: "Koduohutuse checklist"
 ---
 
 // Koduohutuse checklist
