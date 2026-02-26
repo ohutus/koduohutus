@@ -35,4 +35,37 @@ function kuvaTulemus() {
   }
 }
 </script>
+<!DOCTYPE html>
+<html lang="et">
+<head>
+<meta charset="UTF-8">
+<title>Värviriba</title>
+<style>
+  body {
+    margin: 0;
+    background: #111;
+  }
+
+  .color-bar {
+    width: 100%;
+    height: 12px; /* natuke suurem riba */
+  }
+</style>
+</head>
+<body>
+
+<div class="color-bar" id="bar"></div>
+
+<script>
+  const bar = document.getElementById("bar");
+  let hue = 0;
+
+  setInterval(() => {
+    hue = (hue + 1) % 360;
+    bar.style.backgroundColor = `hsl(${hue}, 100%, 50%)`;
+  }, 60);
+</script>
+
+</body>
+</html>
 
