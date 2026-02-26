@@ -15,6 +15,7 @@ Enamik kodupõlenguid algab köögist.
 **Õlipõlengu reegel:**
 
 Ära kunagi kasuta vett!
+
 Kata pann kaanega või kasuta tulekustutit.
 
 **Hoia küünlad ohutus kohas**
