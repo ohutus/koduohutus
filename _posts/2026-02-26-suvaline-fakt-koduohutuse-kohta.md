@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Suvaline fakt koduohutuse kohta"
+title: "Suvalised faktid"
 ---
 
 <b id="fakt">Pikendusjuhtmed ei ole mõeldud püsivaks kasutamiseks, Paljud kasutavad neid aastaid järjest, kuid need on mõeldud ajutiseks lahenduseks. Ülekoormatud või üksteise otsa ühendatud pikendusjuhtmed on sage tulekahju põhjus</b>
