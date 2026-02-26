@@ -10,6 +10,7 @@ title: "Kuidas koduõnnetusi vältida?"
 (See on Eestis kohustuslik – nõuet kontrollib Päästeamet.)
 
 **Ära jäta toitu pliidile järelevalveta**
+
 Enamik kodupõlenguid algab köögist.
 
 **Õlipõlengu reegel:**
