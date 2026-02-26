@@ -3,7 +3,6 @@ layout: post
 title: "Koduohutuse checklist"
 ---
 
-<!DOCTYPE html>
 <html lang="et">
 <head>
   <meta charset="UTF-8">
