@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Koduohutuse Faktid"
+---
 
 // Koduohutuse checklist
 const koduohutusChecklist = [
