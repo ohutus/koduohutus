@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Uus leht: ohutus.github.io"
+title: "Kuidas koduõnnetusi ära hoida?"
 ---
-
-**Kuidas koduõnnetusi ära hoida?**
 
 **Paigalda ja hoolda suitsuandurit**
 - Vähemalt üks igale korrusele.
