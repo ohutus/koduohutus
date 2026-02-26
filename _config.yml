@@ -4,6 +4,10 @@ plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 
+nav:
+  - name: "liiklusohutus"
+    link: "/liiklusohutus"
+
 minima:
   skin: auto
   social_links:
