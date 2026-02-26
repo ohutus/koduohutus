@@ -11,7 +11,6 @@ title: "Koduohutuse Faktid"
 
 ---
 **Kuidas koduõnnetusi ära hoida?**
----
 
 **Paigalda ja hoolda suitsuandurit**
 - Vähemalt üks igale korrusele.
