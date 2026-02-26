@@ -3,21 +3,8 @@ layout: post
 title: "Koduohutuse checklist"
 ---
 
-<html lang="et">
-<head>
-  <meta charset="UTF-8">
-  <title>Koduohutuse Checklist</title>
-  <style>
-    body { font-family: Arial, sans-serif; padding: 20px; }
-    h1 { color: #2c3e50; }
-    ul { list-style: none; padding: 0; }
-    li { margin: 10px 0; }
-    input[type="checkbox"] { transform: scale(1.2); margin-right: 10px; }
-  </style>
-</head>
-<body>
+# Koduohutuse checklist
 
-<h1>Koduohutuse Checklist</h1>
 <ul id="checklist">
   <li><input type="checkbox" id="punkt1">Tulekustuti olemas ja töökorras</li>
   <li><input type="checkbox" id="punkt2">Suitsuandurid paigaldatud ja kontrollitud</li>
