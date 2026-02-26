@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kuidas koduõnnetusi ära hoida?"
+title: "Kuidas koduõnnetusi vältida?"
 ---
 
 **Paigalda ja hoolda suitsuandurit**
