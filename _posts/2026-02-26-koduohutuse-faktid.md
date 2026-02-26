@@ -8,6 +8,7 @@ title: "Koduohutuse Faktid"
 - Tulekahjus ei tapa enamasti tuli, vaid suits, Enamik tulekahjuohvreid sureb suitsu sissehingamise tõttu, mitte põletuste tõttu. Suits võib muuta inimese teadvusetuks vähem kui 2 minutiga.
 - Desinfitseerimisvahendid on tuleohtlikud, Alkoholi sisaldavad kätegeelid võivad süttida, kui need pole täielikult kuivanud ja läheduses on lahtine leek (nt gaasipliit või küünal).
 - Õlipõlengut ei tohi kunagi veega kustutada, Vesi põhjustab rasvapõlengu plahvatusliku leviku. Õige viis on katta leek kaanega või kasutada tulekustutit.
+
 ---
 **Kuidas koduõnnetusi ära hoida?**
 ---
